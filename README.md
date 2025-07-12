@@ -2,7 +2,7 @@
 Script em Python que verifica se um terreno comporta uma garagem de 20m² sem ultrapassar 20% da área.
 # Verificador de Terreno para Garagem 
 
-Este projeto em Python foi desenvolvido para verificar se um terreno é compatível com a construção de uma garagem de **20m²**, seguindo uma regra simples: a garagem não pode ocupar mais que **20% da área total** do terreno.
+Este projeto em Python foi desenvolvido para verificar se um terreno é compatível com a construção de uma garagem de **20m²**, seguindo uma regra simples: a garagem não pode ocupar mais que 20% da área total do terreno.
 
 ##  Regras do cálculo:
 - A garagem tem 20m² fixos
