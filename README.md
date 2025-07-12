@@ -18,3 +18,23 @@ Digite o comprimento do terreno (em metros): 30
 20% da área do terreno: 60.00 m²
 Garagem necessária: 20 m²
 ✅ Terreno compatível com os requisitos da garagem.
+
+Tecnologias utilizadas:
+Python 
+Execução via terminal
+Nenhuma biblioteca externa
+
+Sobre o projeto:
+Esse código foi desenvolvido como parte de um exercício prático de lógica de programação em um curso de Engenharia de Segurança Cibernética. Uma forma simples de aplicar condições, entrada de dados e cálculos matemáticos.
+
+Arquivo principal:
+Atividade_Terreno_20% : contém o código-fonte com toda a lógica do projeto.
+
+Autor:
+Jean Carlos Kovalski
+
+@jkovalskisec no Instagram
+
+Meu LinkedIn: https://www.linkedin.com/in/jean-kovalski-a6bb81344/
+
+Sinta-se à vontade para clonar, modificar e reutilizar este código.
